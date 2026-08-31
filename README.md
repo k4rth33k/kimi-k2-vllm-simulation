@@ -1,5 +1,8 @@
 # Agent topology vs serving — a vLLM-style simulation with Kimi K2 on 8×B200
 
+This repo contains the code used to create the blog post
+[Agent architectures & model serving](https://www.kartheeksurampudi.com/blog/agent-architectures-model-serving).
+
 Discrete-event simulation of two agent topologies (**ReAct** vs **Orchestrator
 + parallel subagents**) replaying real LLM request sequences extracted from the
 [Toolathlon-Trajectories](https://huggingface.co/datasets/hkust-nlp/Toolathlon-Trajectories)
