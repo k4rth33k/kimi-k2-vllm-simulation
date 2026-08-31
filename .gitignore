@@ -1,0 +1,14 @@
+# Ignore everything…
+/*
+
+# …except what we track
+!/.gitignore
+!/README.md
+!/REPORT.md
+!/sim/
+!/analysis/
+
+# junk
+__pycache__/
+*.pyc
+.DS_Store
